@@ -2,4 +2,4 @@
 project1
 #this project is a small system for shop
 #
-# this is my first trial to use gui in my project 
+# It's my first trial to use gui in my projects
